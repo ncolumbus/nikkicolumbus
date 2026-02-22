@@ -1,4 +1,4 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Nikki Columbus" # the name of your site, e.g. ACME Corp.
+title: <h2>"Nikki Columbus"</h2> # the name of your site, e.g. ACME Corp.
 description: "Writer, editor, curator, performer"
